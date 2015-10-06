@@ -1,0 +1,47 @@
+styesheet
+
+body {
+  background-color: #FF9900;
+}
+
+#header {
+  background-color: lightgreen;
+  height: 40px;
+
+  color: #6699FF;
+  padding: 5px
+  font-family: impact;
+  text-align: center;
+}
+
+
+
+p {
+  color: #FF9900;
+  text-align: center;
+  font-family: verdana;
+}
+h2{
+  height: 120;
+  text-align: right;
+}
+h3{
+  height: 140;
+}
+/* unvisited link */
+a:link {
+    color: #FF9900;
+     text-decoration: none
+}
+
+/* visited link */
+a:visited {
+    color: #FF9900;
+     text-decoration: none
+}
+
+/* selected link */
+a:active {
+    color: #FF9900;
+     text-decoration: none
+}
